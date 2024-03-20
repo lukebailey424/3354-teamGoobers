@@ -1,0 +1,23 @@
+1. Media Mapper - Diary and Tracker
+    1.1 Media Tracker
+        1.1.1 Query database given name of media or relevant details such as author, cast, date released or published, etc. 
+        1.1.2 Create, delete, and add to collections of media under a shared topic
+        1.1.3 Privately rate, review, and make notes on media
+        1.1.4 Add selected media to a watchlist
+        1.1.5 Receive media suggestions from the system 
+        1.1.6 Update suggestions based on user likes and selected preferences
+    1.2 Social interaction 
+        1.2.1 Publicly rate and review media 
+        1.2.2 View other users' profiles
+        1.2.3 View and comment on ratings and reviews from other users
+        1.2.4 Friend and message other users 
+    1.3 User personalization 
+        1.3.2 Select public, private, or selective profile view
+        1.3.2 Select preferred types of media
+        1.3.3 Choose what is displayed on their public profile
+        1.3.4 Light and dark mode
+    1.4 Account Controls
+        1.4.1 Create an account with email, google, or apple
+        1.4.2 Set username
+        1.4.3 Customize profile picture and bio 
+        1.4.4 Delete account and all account data
